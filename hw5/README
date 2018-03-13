@@ -1,0 +1,27 @@
+global program mappings 
+-esc: terminate program
+- arrow keys: move the scene camera for all modes
+-(+/-): change the fov parameter
+-(";"/":"): change dim parameter
+-(w/s) move the camera forward or backwards from facing direction when in 
+first person
+
+mode changes
+1: change between scene and rocket model
+2: change perspective mode
+3: turn on/off light
+4: stop automatic rotation of light
+5: turn on/off axes
+
+light parameters changes
+(v/V): change ambient light value
+(b/B): change ambient light value
+(n/N): change ambient light value
+(m/M): change ambient light value
+(z/Z): rotate light if light isn't rotating itself
+("[","]"): control light elevation
+(k/l): change the light distance from y axis
+(g/G): change shininess
+
+3) the asignment took me about 10 hours to complete as I had 
+difficulty getting the normals correct for the polygon plane surface. 
