@@ -1,0 +1,11 @@
+the scene doesn't have as many interactive elements 
+compared to the lorenze attractor 
+key maping
+-esc: terminate program
+-m: change mode
+-mode 0 is the architype rocket that I have made
+-mode 1 is the scene that is generated (default is mode=1)
+-(+/-): change the w parameter of the homogenous matrix
+
+3) the asignment took me about 2.5 hours to complete which most of the time was
+setting up the deterministic orbits.
