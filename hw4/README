@@ -1,0 +1,15 @@
+key mappings
+-esc: terminate program
+- arrow keys: move the scene camera for all modes
+-(m): change mode {0=scene, 1= rocket model}
+-mode 0 is the architype rocket that I have made
+-mode 1 is the scene that is generated (default is mode=1)
+-(p): Change perspective mode {0=Orthogonal, 1=Perspective,3=First person}
+-(+/-): change the dim parameter
+-(z/x): change fov
+-(w/s) move the camera forward or backwards from facing direction when in 
+first person
+
+
+3) the asignment took me about 5 hours to complete as I had some difficulty
+in getting the first person navigation implemented. 
